@@ -1,2 +1,2 @@
 # Cpp-Assignments
-My C++ assignment answers.
+My Cpp assignment answers.
